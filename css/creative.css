@@ -613,3 +613,7 @@ transform: rotate(360deg);
 .no-js h1 {
     color: white;
 }
+
+.buttonSpacing {
+    margin: 0 10px;
+}
