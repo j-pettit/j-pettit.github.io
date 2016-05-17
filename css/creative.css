@@ -496,9 +496,9 @@ body {
     margin: -75px 0 0 -75px;
     border-radius: 50%;
     border: 3px solid transparent;
-    border-top-color: #d12040; /*------------CHANGE COLOR OF SPINNER ------------*/
-    -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+    border-top-color: #FFA5A2; /*------------CHANGE COLOR OF SPINNER ------------*/
+    -webkit-animation: spin 4s linear infinite;
+    animation: spin 4s linear infinite;
     z-index: 1001;
 }
 
@@ -511,9 +511,9 @@ body {
     bottom: 5px;
     border-radius: 50%;
     border: 3px solid transparent;
-    border-top-color: #2098d1; /*------------CHANGE COLOR OF SPINNER ------------*/
-    -webkit-animation: spin 3s linear infinite;
-    animation: spin 3s linear infinite;
+    border-top-color: #F8FFBC; /*------------CHANGE COLOR OF SPINNER ------------*/
+    -webkit-animation: spin 6s linear infinite;
+    animation: spin 6s linear infinite;
 }
 
 #loader:after {
@@ -525,9 +525,9 @@ body {
     bottom: 15px;
     border-radius: 50%;
     border: 3px solid transparent;
-    border-top-color: #d1b220; /*------------CHANGE COLOR OF SPINNER ------------*/
-    -webkit-animation: spin 1.5s linear infinite;
-    animation: spin 1.5s linear infinite;
+    border-top-color: #CFF5FF; /*------------CHANGE COLOR OF SPINNER ------------*/
+    -webkit-animation: spin 3s linear infinite;
+    animation: spin 3s linear infinite;
 }
 
 @-webkit-keyframes spin {
