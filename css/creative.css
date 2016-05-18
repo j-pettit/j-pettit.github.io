@@ -62,6 +62,10 @@ p {
     background-color: #645b82;
 }
 
+.bg-info {
+    background-color: #000000;
+}
+
 .bg-dark {
     color: #fff;
     background-color: #222;
@@ -69,6 +73,10 @@ p {
 
 .text-faded {
     color: rgba(255,255,255,.8);
+}
+
+.text-white {
+    color: rgba(255,255,255,1);
 }
 
 section {
