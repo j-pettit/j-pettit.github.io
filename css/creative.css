@@ -4,6 +4,13 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+.imgSize {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
 html,
 body {
     width: 100%;
