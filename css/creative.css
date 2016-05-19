@@ -636,3 +636,8 @@ transform: rotate(360deg);
 .buttonSpacing {
     margin: 10px 10px;
 }
+
+.portfolioSize {
+    height: 350px;
+    width: 650px;
+}
