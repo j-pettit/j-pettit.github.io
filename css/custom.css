@@ -1,0 +1,43 @@
+.blockquote {
+  border-color: #CED8DC;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.header {
+  height: 100px;
+  background-color: #CED8DC;
+}
+
+.section {
+  padding: 15px 0;
+}
+
+.footerStyle {
+  margin-top: 0 !important;
+  background-color: #D4A787 !important;
+}
+
+.section1 {
+  background-color: #BDC1C7;
+}
+
+.section2 {
+  background-color: #D6CAB6;
+}
+
+.section3 {
+  background-color: #FCFCFA;
+}
+
+.section4 {
+  background-color: #BDC1C7;
+}
+
+p {
+  font-size: 20px;
+}
+
+.socialButton {
+  background-color: #D4A787;
+}
