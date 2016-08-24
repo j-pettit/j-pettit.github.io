@@ -1,3 +1,7 @@
+.container {
+  width: 50%;
+}
+
 .headerNavbar {
   height: 100px;
   background-color: #E8CAAF;
@@ -21,7 +25,7 @@
 }
 
 .section1 {
-  background-color: #AAB3AB;
+  background-color: #C4CBB7;
   padding-top: 100px;
   padding-bottom: 100px;
 }
@@ -45,7 +49,7 @@
 }
 
 .header1 {
-  background-color: #C4CBB7;
+  background-color: #AAB3AB;
   padding-top: 200px;
   padding-bottom: 200px;
 }
