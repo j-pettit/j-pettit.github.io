@@ -4,6 +4,12 @@
   margin-bottom: 100px;
 }
 
+.blockquote2 {
+  border-color: #D4A787;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
 .header {
   height: 100px;
   background-color: #CED8DC;
@@ -40,4 +46,8 @@ p {
 
 .socialButton {
   background-color: #CED8DC !important;
+}
+
+.quote2font {
+  color: #D4A787;
 }

@@ -98,17 +98,19 @@
           </div>
         </div>
 
+        <!-- Quote 2 -->
         <div class="parallax-container">
-          <div class="parallax"><img src="./img/snowy.jpg"></div>
-        </div>
-        <div class="section white">
-          <div class="row container">
-            <h2 class="header">Parallax</h2>
-            <p class="grey-text text-darken-3 lighten-3">Parallax is an effect where the background content or image in this case, is moved at a different speed than the foreground content while scrolling.</p>
+          <div class="blue-text">
+            <blockquote class="blockquote2 container">
+              <h4>
+                When I am working on a problem, I never think about beauty. But when I have finished, if the solution is not beautiful, I know it is wrong.
+              </h4>
+              <h5>
+                Buckminster Fuller
+              </h5>
+            </blockquote>
           </div>
-        </div>
-        <div class="parallax-container">
-          <div class="parallax"><img src="./img/snowy.jpg"></div>
+          <div class="parallax"><img src="img/snowy.jpg"></div>
         </div>
 
         <!-- Me -->
@@ -160,5 +162,11 @@
 
     <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script type="text/javascript" src="js/materialize.min.js"></script>
+
+    <script type="text/javascript">
+    $(document).ready(function(){
+      $('.parallax').parallax();
+    });
+    </script>
   </body>
 </html>
