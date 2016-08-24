@@ -15,19 +15,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   </head>
   
-  <body id="page-top">
+  <body>
 
     <!-- Navbar -->
     <header>
       <div class="navbar-fixed headerNavbar">
         <nav class="headerNavbar">
-          <div class="nav-wrapper container valign-wrapper">
-            <a href="#" class="center brand-logo valign grey-text text-darken-3">Julian Pettit</a>
+          <div id="nav-logo" class="nav-wrapper container valign-wrapper">
+            <a href="#pageTop" class="right brand-logo valign grey-text text-darken-3">Julian Pettit</a>
             <ul id="nav-mobile" class="left hide-on-med-and-down valign">
               <li><a class="grey-text text-darken-3" href="#header1div">Welcome</a></li>
+              <li><a class="grey-text text-darken-3" href="#section1div">Body</a></li>
               <li><a class="grey-text text-darken-3" href="#header2div">You</a></li>
+              <li><a class="grey-text text-darken-3" href="#section2div">Body</a></li>
               <li><a class="grey-text text-darken-3" href="#header3div">Me</a></li>
+              <li><a class="grey-text text-darken-3" href="#section3div">Body</a></li>
               <li><a class="grey-text text-darken-3" href="#header4div">Us</a></li>
+              <li><a class="grey-text text-darken-3" href="#section4div">Body</a></li>
             </ul>
           </div>
         </nav>
@@ -36,6 +40,8 @@
 
     <!-- Content -->
     <body>
+      <div id="pageTop" class="anchorPos">
+      </div>
       <div class="black-text">
 
         <!-- Quote 1 -->
@@ -60,6 +66,8 @@
         </div>
 
         <!-- Section 1 -->
+        <div id="section1div" class="anchorPos">
+        </div>
         <div class="section1">
           <div id="section1" class="container section">
             <p>
@@ -101,6 +109,8 @@
         </div>
 
         <!-- Section 2 -->
+        <div id="section2div" class="anchorPos">
+        </div>
         <div class="section2">
           <div id="section2" class="container section">
             <p>
@@ -143,6 +153,8 @@
         </div>
 
         <!-- Section 3 -->
+        <div id="section3div" class="anchorPos">
+        </div>
         <div class="section3 grey-text text-darken-3">
           <div id="section3" class="container section">
             <p>
@@ -173,6 +185,8 @@
         </div>
 
         <!-- Section 4 -->
+        <div id="section4div" class="anchorPos">
+        </div>
         <div class="section4">
           <div id="section4" class="container section">
             <p>
@@ -216,6 +230,11 @@
     <script type="text/javascript">
     $(document).ready(function() {
        $('#nav-mobile').localScroll({duration:800});
+    });
+    </script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+       $('#nav-logo').localScroll({duration:800});
     });
     </script>
 <!--     <script type="text/javascript">
