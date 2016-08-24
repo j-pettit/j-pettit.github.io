@@ -1,43 +1,59 @@
-.blockquote {
-  border-color: #CED8DC;
-  margin-top: 100px;
-  margin-bottom: 100px;
-}
-
-.blockquote2 {
-  border-color: #D4A787;
-  margin-top: 100px;
-  margin-bottom: 100px;
-}
-
-.header {
+.headerNavbar {
   height: 100px;
-  background-color: #CED8DC;
+  background-color: #E8CAAF;
 }
 
-.outerPadding {
-  padding: 15px 0;
+.quote1 {
+  border-color: #E8CAAF;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.quote2 {
+  border-color: #E8CAAF;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 .footerStyle {
   margin-top: 0 !important;
-  background-color: #D4A787 !important;
+  background-color: #E8CAAF !important;
 }
 
 .section1 {
-  background-color: #BDC1C7;
+  background-color: #AAB3AB;
 }
 
 .section2 {
-  background-color: #D6CAB6;
+  background-color: #EEE0B7;
 }
 
 .section3 {
-  background-color: #FCFCFA;
+  background-color: #C4CBB7;
 }
 
 .section4 {
-  background-color: #BDC1C7;
+  background-color: #EEE0B7;
+}
+
+.header1 {
+  background-color: #C4CBB7;
+  height: 500px;
+}
+
+.header2 {
+  background-color: #FFFFFF;
+  height: 500px;
+}
+
+.header3 {
+  background-color: #AAB3AB;
+  height: 500px;
+}
+
+.header4 {
+  background-color: #FFFFFF;
+  height: 500px;
 }
 
 p {
@@ -45,9 +61,9 @@ p {
 }
 
 .socialButton {
-  background-color: #CED8DC !important;
+  background-color: #E8CAAF !important;
 }
 
-.quote2font {
-  color: #D4A787;
+.outerPadding {
+  padding: 15px 0;
 }
