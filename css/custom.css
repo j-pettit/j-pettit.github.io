@@ -38,22 +38,26 @@
 
 .header1 {
   background-color: #C4CBB7;
-  height: 500px;
+  padding-top: 200px;
+  padding-bottom: 200px;
 }
 
 .header2 {
   background-color: #FFFFFF;
-  height: 500px;
+  padding-top: 200px;
+  padding-bottom: 200px;
 }
 
 .header3 {
   background-color: #AAB3AB;
-  height: 500px;
+  padding-top: 200px;
+  padding-bottom: 200px;
 }
 
 .header4 {
   background-color: #FFFFFF;
-  height: 500px;
+  padding-top: 200px;
+  padding-bottom: 200px;
 }
 
 p {
