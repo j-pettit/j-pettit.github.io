@@ -22,18 +22,26 @@
 
 .section1 {
   background-color: #AAB3AB;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .section2 {
   background-color: #EEE0B7;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .section3 {
   background-color: #C4CBB7;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .section4 {
   background-color: #EEE0B7;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .header1 {
@@ -70,4 +78,11 @@ p {
 
 .outerPadding {
   padding: 15px 0;
+}
+
+.anchorPos {
+  display: block;
+  position: relative;
+  top: -99px;
+  visibility: hidden;
 }
