@@ -88,3 +88,7 @@ p {
   top: -99px;
   visibility: hidden;
 }
+
+.icon {
+  font-size: 2em;
+}
