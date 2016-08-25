@@ -7,28 +7,14 @@
   background-color: #A4BCC2;
 }
 
-.quote1 {
+.quote {
   border-color: #A4BCC2;
-  // margin-top: 400px;
-  // margin-bottom: 400px;
 }
 
-.quote1back {
+.quoteback {
   background-color: #E8F3F8;
-  padding-top: 400px;
-  padding-bottom: 400px;
-}
-
-.quote2 {
-  border-color: #A4BCC2;
-  // margin-top: 400px;
-  // margin-bottom: 400px;
-}
-
-.quote2back {
-  background-color: #E8F3F8;
-  padding-top: 400px;
-  padding-bottom: 400px;
+  padding-top: 390px;
+  padding-bottom: 390px;
 }
 
 .footerStyle {
