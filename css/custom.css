@@ -17,6 +17,12 @@
   padding-bottom: 400px;
 }
 
+.quoteback2 {
+  background-color: #E8F3F8;
+  padding-top: 450px;
+  padding-bottom: 450px;
+}
+
 .footerStyle {
   margin-top: 0 !important;
   background-color: #A4BCC2 !important;
@@ -86,6 +92,13 @@ p {
   display: block;
   position: relative;
   top: -99px;
+  visibility: hidden;
+}
+
+.anchorPos2 {
+  display: block;
+  position: relative;
+  top: 0px;
   visibility: hidden;
 }
 
