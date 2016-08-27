@@ -121,3 +121,38 @@ p {
 .headerDisplay {
   position: fixed;
 }
+
+.nextButton {
+  position: absolute;
+  top: 80%;
+  left: 48.8% !important;
+  background-color: #A4BCC2 !important;
+}
+
+.gitHubButton {
+  position: absolute;
+  top: 60%;
+  left: 38.8% !important;
+  background-color: #A4BCC2 !important;
+}
+
+.linkedInButton {
+  position: absolute;
+  top: 60%;
+  left: 28.8% !important;
+  background-color: #A4BCC2 !important;
+}
+
+.mediumButton {
+  position: absolute;
+  top: 60%;
+  left: 68.8% !important;
+  background-color: #A4BCC2 !important;
+}
+
+.resumeButton {
+  position: absolute;
+  top: 60%;
+  left: 58.8% !important;
+  background-color: #A4BCC2 !important;
+}
