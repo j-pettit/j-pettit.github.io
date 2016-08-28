@@ -157,3 +157,7 @@ p {
   left: 58.8% !important;
   background-color: #112255 !important;
 }
+
+a {
+  outline: none !important;
+}
