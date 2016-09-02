@@ -8,44 +8,34 @@
 }
 
 .quote {
-  border-color: #A4BCC2;
-}
-
-.quoteback {
-  background-color: #A4BCC2;
-  padding-top: 400px;
-  padding-bottom: 400px;
+  border-color: #112255;
 }
 
 .quoteback2 {
-  background-color: #E8F3F8;
+  background-color: #444466;
   padding-top: 450px;
   padding-bottom: 450px;
 }
 
 .footerStyle {
   margin-top: 0 !important;
-  background-color: #A4BCC2 !important;
+  background-color: #112255 !important;
 }
 
 .section1 {
-  background-color: #DBE6EC;
+  background-color: #335588;
   padding-top: 190px;
   padding-bottom: 190px;
 }
 
 .section4 {
-  background-color: #DBE6EC;
+  background-color: #99aabb;
   padding-top: 100px;
   padding-bottom: 100px;
 }
 
 p {
   font-size: 20px;
-}
-
-.socialButton {
-  background-color: #A4BCC2 !important;
 }
 
 .outerPadding {
@@ -71,7 +61,7 @@ p {
 }
 
 .contactInfo {
-  background-color: #A4BCC2;
+  background-color: #ddbb33;
   padding: 1rem .75rem !important;
   margin-top: 30px;
 }
