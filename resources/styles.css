@@ -17,7 +17,7 @@ h1,h2,h3 {
   margin-top: 88px;
   margin-bottom: 20px;
   border: 0;
-  border-top: 3px solid #ef4949;
+  border-top: 3px solid #1da1f2;
 }
 
 #profile-photo img {
@@ -42,7 +42,7 @@ h1,h2,h3 {
   width: 40px;
   text-align: center;
   text-decoration: none;
-  background: #ef4949;
+  background: #1da1f2;
   color: white;
 }
 
