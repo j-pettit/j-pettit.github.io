@@ -3,8 +3,16 @@ from flask_flatpages import FlatPages
 from datetime import datetime
 
 blog = Flask(__name__)
+blog.config['FLATPAGES_EXTENSION'] = '.md'
 
-@blog.route('/')
+pages = FlatPages(blog)
+
+@blog.route('/<path:path>.html')
+def page(path):
+    page = pages.get_or_404(path)
+    return render_template('page.html', page=page)
+
+
 def hello_world():
     return 'Hello, World!'
 
